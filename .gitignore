@@ -1,0 +1,11 @@
+node_modules
+dist
+
+# IntelliJ
+.idea
+
+# Local environment
+.env
+
+# ESLint
+.eslintcache
